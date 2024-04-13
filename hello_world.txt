@@ -1,3 +1,7 @@
 Hello World!
 This is a test file for the Odin Project
+<<<<<<< HEAD
 poopy-butthole
+=======
+poop
+>>>>>>> 146b4c03099f99fc67a0e0a77d3229aecbd76ba7
